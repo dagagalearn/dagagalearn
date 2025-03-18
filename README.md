@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dagagalearn
+- 👋 Hi, I’m Dagaga Addisu
 - 👀 I’m interested in coding,math and science.
 - 🌱 I’m currently learning in highschool.
 - 💞️ I’m looking to collaborate on some projects.
